@@ -37,5 +37,5 @@ $ bash scripts/inference.sh
 The metrics used in this work are listed in [evaluation_metrics](https://github.com/JuseonDo/InstructCMP/blob/main/src/evaluate_utils/evaluate_functions.py). For each metric, we have steps.txt which presents the steps to setup and run the metric.
 
 # Contact
-**jsuccessj@gmail.com**. 
+**jsuccessj@gmail.com**
 
