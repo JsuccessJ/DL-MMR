@@ -1,7 +1,5 @@
 # Considering Length Diversity in Retrieval-Augmented Summarization
 
-* Authors: Juseon-Do, Jaesung Hwang, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura
-* Paper Link: [Considering Length Diversity in Retrieval-Augmented Summarization](https://arxiv.org/abs/2503.09249)
 <strong><em>Considering Length Diversity in Retrieval-Augmented Summarization</em>
       <a href="https://arxiv.org/abs/2503.09249"><strong>[Link]</strong></a></strong> <br>
       Juseon-Do*, Jaesung Hwang*, Jingun Kwon, Hidetaka Kamigaito, Manabu Okumura (* : equal contribution) <br>
